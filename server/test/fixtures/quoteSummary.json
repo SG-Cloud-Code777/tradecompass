@@ -1,0 +1,8 @@
+{"quoteSummary":{"result":[{
+ "summaryDetail":{"trailingPE":{"raw":28.4,"fmt":"28.40"},"dividendYield":{"raw":0.0052,"fmt":"0.52%"},"payoutRatio":{"raw":0.1539,"fmt":"15.39%"},"exDividendDate":{"raw":1786406400,"fmt":"2026-08-11"},"marketCap":{"raw":3500000000000}},
+ "defaultKeyStatistics":{"priceToBook":{"raw":52.1,"fmt":"52.10"}},
+ "financialData":{"debtToEquity":{"raw":154.49,"fmt":"154.49%"},"revenueGrowth":{"raw":0.081},"earningsGrowth":{"raw":0.12},"freeCashflow":{"raw":98000000000}},
+ "assetProfile":{"sector":"Technology","industry":"Consumer Electronics"},
+ "price":{"quoteType":"EQUITY","marketCap":{"raw":3500000000000}},
+ "calendarEvents":{"earnings":{"earningsDate":[{"raw":1793318400,"fmt":"2026-10-30"}]}}
+}],"error":null}}

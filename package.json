@@ -1,0 +1,13 @@
+{
+  "name": "tradecompass",
+  "private": true,
+  "workspaces": ["packages/*", "server", "web"],
+  "scripts": {
+    "dev": "npm run dev -w server & npm run dev -w web",
+    "test": "npm test -w @tradecompass/signals && npm test -w server",
+    "typecheck": "npm run typecheck -w @tradecompass/signals && npm run typecheck -w server && npm run typecheck -w web",
+    "build": "npm run build -w web",
+    "db:migrate": "npm run db:migrate -w server",
+    "db:seed": "npm run db:seed -w server"
+  }
+}

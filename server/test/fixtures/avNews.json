@@ -1,0 +1,5 @@
+{"items":"2","sentiment_score_definition":"x <= -0.35: Bearish","feed":[
+ {"title":"Example rallies on guidance","url":"https://example.com/a","time_published":"20261016T143000","summary":"...","source":"Reuters","overall_sentiment_score":0.21,"overall_sentiment_label":"Somewhat-Bullish",
+  "ticker_sentiment":[{"ticker":"EXMP","relevance_score":"0.9","ticker_sentiment_score":"0.41","ticker_sentiment_label":"Bullish"}]},
+ {"title":"Sector roundup","url":"https://example.com/b","time_published":"20261015T090000","summary":"...","source":"Benzinga","overall_sentiment_score":-0.05,"overall_sentiment_label":"Neutral","ticker_sentiment":[]}
+]}
